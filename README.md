@@ -29,6 +29,13 @@ When suggesting something new, try to answer:
 - Who benefits from it?
 - Any proposed UI/flow or examples?
 
+## Roadmap
+
+Here is the roadmap presented during the FlashESP launch at Maker Faire Shenzhen 2025:
+
+![Maker Faire Shenzhen 2025 Roadmap](assets/images/maker-faire-shenzhen-2025-roadmap.jpeg)
+
+
 ## Labels & triage
 Issues may be labeled for easier tracking, e.g.:
 - `bug`, `enhancement`, `question`, `good first issue`, `needs info`
